@@ -2,4 +2,4 @@
 - 👀 I’m software engineering student and i'm into game development and front-end.
 - 🌱 I’m currently learning about C#, Boostrap, Angular and so on
 - 💞️ I’m looking forward to learn and collaborate with every project i can get into
-- 📫 How to reach me: [email me](sebastianbuitrago0107@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sebastian-buitrago-sebusa/)
