@@ -24,6 +24,7 @@ ________________________________________________________________________________
   <h3 align="center"> 👨🏻‍💻 &nbsp;About Me </h3>
 
   - 🤔 &nbsp; I'm a computer science student and a junior software engineer.
+  - 📚 &nbsp; I'm the co-author of [Prólogos](https://prologos.herokuapp.com/).
   - 🎓 &nbsp; My alma mater is Universidad Tecnológica de Pereira.
   - 🌎 &nbsp; Although I'm a native spanish speaker, I can handle english pretty well.
   - 🔬 &nbsp; Learning about FrontEnd frameworks and videogame development.
