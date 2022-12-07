@@ -5,7 +5,7 @@
     <img src="presentation.png" alt="Logo">
   </a>
 
-  <h3 align="center">Hi! I'm Sebastian!</h3>
+  <h3 align="center">Hi! I'm Sebastián!</h3>
 
   <p align="center">
     This is my github where you can see all my work 👀
