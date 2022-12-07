@@ -21,6 +21,9 @@ ________________________________________________________________________________
 <!-- Info -->
 
 <div id="about">
+  <br/>
+  <br/>
+  <br/>
   <h3 align="center"> 👨🏻‍💻 &nbsp;About Me </h3>
 
   - 🤔 &nbsp; I'm a computer science student and a junior software engineer.
@@ -32,6 +35,9 @@ ________________________________________________________________________________
 </div>
 
 <div id="tech">
+  <br/>
+  <br/>
+  <br/>
   <h3 align="center"> 🛠 &nbsp;Tech Stack</h3>
 
   - 🖌 &nbsp;
@@ -62,6 +68,9 @@ ________________________________________________________________________________
    ```
   
 <div id="contact">
+  <br/>
+  <br/>
+  <br/>
   <h3 align="center"> 📞 &nbsp;Contact Me</h3>
   
   - Interested about me perhaps? You can email me at **<sebastianbuitrago0107@gmail.com>.**
