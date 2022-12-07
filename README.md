@@ -75,10 +75,11 @@ ______________________________________________________
   <br/>
   <br/>
   <h3 align="center"> 📞 &nbsp;Contact Me</h3>
+ 
+  [![Gmail][GMAIL]][email]
+  [![LinkedIn][linkedin-shield]][linkedin-url]
+  [![Twitter][TWITTER]][TWITTER-url]
   
-  - Interested about me perhaps? You can email me at **<sebastianbuitrago0107@gmail.com>.**
-  - Also, you can check my
-    [![LinkedIn][linkedin-shield]][linkedin-url]
 </div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -86,6 +87,11 @@ ______________________________________________________
 <!-- https://github.com/progfay/shields-with-icon/blob/master/README.md -->
 [linkedin-shield]:https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=
 [linkedin-url]: https://www.linkedin.com/in/sebastian-buitrago-sebusa/
+[GMAIL]: https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=
+[email]: mailto:sebastianbuitrago0107@gmail.com
+[TWITTER]: https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=
+[TWITTER-url]: https://twitter.com/Sebusa0107
+
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
