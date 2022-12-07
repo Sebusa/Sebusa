@@ -1,8 +1,8 @@
 <!-- Header -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Sebusa/">
+    <img src="presentation.png" alt="Logo">
   </a>
 
   <h3 align="center">Hi! I'm Sebastian!</h3>
@@ -35,10 +35,10 @@ ________________________________________________________________________________
 
   - 🖌 &nbsp;
     [![React][React.js]][React-url]
-    [![Vue][Vue.js]][Vue-url]
-    [![Angular][Angular.io]][Angular-url]
     [![Bootstrap][Bootstrap.com]][Bootstrap-url]
     [![JQuery][JQuery.com]][JQuery-url]
+    <!-- [![Vue][Vue.js]][Vue-url] -->
+    <!-- [![Angular][Angular.io]][Angular-url] -->
 
   - 💻 &nbsp;
     [![HTML5][HTML5.com]][HTML5-url]
@@ -51,7 +51,9 @@ ________________________________________________________________________________
   - 🔧 &nbsp;
     [![Visual Studio Code][VSCODE]][VSCODE-url]
     [![Github][GITHUB]][GITHUB-url]
+    [![GitKraken][KRAKEN]][KRAKEN-url]
     [![Unity][UNITY]][UNITY-url]
+    [![Heroku][HEROKU]][HEROKU-url]
     
    ```sh
    cd sebusa/talents/linux/
@@ -61,14 +63,16 @@ ________________________________________________________________________________
 <div id="contact">
   <h3 align="center"> 📞 &nbsp;Contact Me</h3>
   
-  [![LinkedIn][linkedin-shield]][linkedin-url]
+  - Interested about me perhaps? You can email me at **<sebastianbuitrago0107@gmail.com>.**
+  - Also, you can check my
+    [![LinkedIn][linkedin-shield]][linkedin-url]
 </div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 <!-- https://github.com/progfay/shields-with-icon/blob/master/README.md -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-shield]:https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=
+[linkedin-url]: https://www.linkedin.com/in/sebastian-buitrago-sebusa/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
@@ -79,11 +83,11 @@ ________________________________________________________________________________
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
-[HTML5.com]: https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&color=743818&logo=HTML5
+[HTML5.com]: https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=
 [HTML5-url]: https://www.w3schools.com/html/
-[CSS.com]: https://img.shields.io/badge/-CSS-333333?style=for-the-badge&color=184374&logo=CSS3
+[CSS.com]: https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=
 [CSS-url]: https://developer.mozilla.org/es/docs/Web/CSS
-[PYTHON]: https://img.shields.io/badge/-python-333333?style=for-the-badge&color=FFFFFF&logo=python
+[PYTHON]: https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=
 [PYTHON-url]: https://www.python.org/
 [JS]: https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=
 [JS-url]: [https://www.java.com/es/](https://developer.mozilla.org/es/docs/Web/JavaScript)
@@ -95,5 +99,9 @@ ________________________________________________________________________________
 [VSCODE-url]: https://code.visualstudio.com/
 [GITHUB]: https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=
 [GITHUB-url]: https://github.com/
+[KRAKEN]: https://img.shields.io/static/v1?style=for-the-badge&message=GitKraken&color=179287&logo=GitKraken&logoColor=FFFFFF&label=
+[KRAKEN-url]: https://www.gitkraken.com/
 [UNITY]: https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label=
 [UNITY-url]: https://unity.com/
+[HEROKU]: https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=
+[HEROKU-url]: https://www.heroku.com/
