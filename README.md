@@ -108,7 +108,7 @@ ______________________________________________________
 [CSHARP-url]: https://unity.com/how-to/learning-c-sharp-unity-beginners#:~:text=The%20language%20that%27s%20used%20in,variables%2C%20functions%2C%20and%20classes.
 [MYSQL]: https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=
 [MYSQL-url]: https://www.mysql.com/
-[VSCODE]: https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=
+[VSCODE]: https://img.shields.io/static/v1?style=for-the-badge&message=VS+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=
 [VSCODE-url]: https://code.visualstudio.com/
 [GITHUB]: https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=
 [GITHUB-url]: https://github.com/
