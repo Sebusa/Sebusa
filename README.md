@@ -96,9 +96,9 @@ ______________________________________________________
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
-[HTML5.com]: https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=
+[HTML5.com]: https://img.shields.io/static/v1?style=for-the-badge&message=HTML&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=
 [HTML5-url]: https://www.w3schools.com/html/
-[CSS.com]: https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=
+[CSS.com]: https://img.shields.io/static/v1?style=for-the-badge&message=CSS&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=
 [CSS-url]: https://developer.mozilla.org/es/docs/Web/CSS
 [PYTHON]: https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=
 [PYTHON-url]: https://www.python.org/
