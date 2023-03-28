@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Sebusa/">
-    <img src="business card.png" alt="Logo">
+    <img src="Business Card.png" alt="Logo">
   </a>
 
   <h3 align="center">Hi! I'm Sebastián!</h3>
