@@ -33,7 +33,7 @@ ______________________________________________________
   - 🎓 &nbsp; My alma mater is [Universidad Tecnológica de Pereira](https://www.utp.edu.co/).
   - 🌎 &nbsp; Although I'm a native spanish speaker, I can handle english pretty well.
   - 🔬 &nbsp; Learning about FrontEnd frameworks and videogame development.
-  - 🚀 &nbsp; Former member of Arcadeon, the videogames research seedbed of my college, and a hardworker both in group and independent.
+  - 🚀 &nbsp; A hardworker both in group and independent.
 </div>
 
 <div id="tech">
