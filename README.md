@@ -85,7 +85,7 @@ ______________________________________________________
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 <!-- https://github.com/progfay/shields-with-icon/blob/master/README.md -->
 [linkedin-shield]:https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=
-[linkedin-url]: https://www.linkedin.com/in/sebastian-buitrago-sebusa/
+[linkedin-url]: https://www.linkedin.com/in/sebastian-buitrago-salazar/
 [GMAIL]: https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=
 [email]: mailto:sebastianbuitrago0107@gmail.com
 [TWITTER]: https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=
