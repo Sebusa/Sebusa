@@ -44,6 +44,7 @@ ______________________________________________________
 
   - 🖌 &nbsp;
     [![React][React.js]][React-url]
+    [![Django][Django]][Django-url]
     [![Bootstrap][Bootstrap.com]][Bootstrap-url]
     [![JQuery][JQuery.com]][JQuery-url]
     <!-- [![Vue][Vue.js]][Vue-url] -->
@@ -91,6 +92,8 @@ ______________________________________________________
 [TWITTER]: https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=
 [TWITTER-url]: https://twitter.com/Sebusa0107
 
+[Django]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+[Django-url]: https://www.djangoproject.com/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
