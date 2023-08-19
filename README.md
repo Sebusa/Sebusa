@@ -69,7 +69,9 @@ ______________________________________________________
    cd sebusa/talents/linux/
    echo 'I know about bash and Linux too!' >> cv.txt
    ```
-  
+
+![Sebastián's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebusa&show_icons=true&theme=tokyonight)
+
 <div id="contact">
   <br/>
   <br/>
